@@ -1,0 +1,21 @@
+body {
+    width: 1200px;
+}
+
+td {
+    border: 1px dashed black;
+    width: 25px;
+    height: 25px;
+    color:transparent;
+    background-Color: white;
+}
+
+table {
+    width: 100vw;
+    height: auto;
+    border-collapse: collapse;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
